@@ -1,3 +1,5 @@
+/*********modificacio de miquel salles**********/
+
 /*
 Nom: Jordi Torrella Lopez
 S'ha d'optimitzar aquest codi tot el que pugueu.
